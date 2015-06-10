@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<favourites>
+  <webPage>
+    <url>www.google.com</url>
+    <name>Google</name>
+  </webPage>
+  <webPage>
+    <url>http://www.in.gr</url>
+    <name>In</name>
+  </webPage>
+</favourites>
